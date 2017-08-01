@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+fd03f62b5bc1d985040479f015185352 /home/sketchc89/rosbook/devel/include/basics/Complex.h
+f2c325457017588b889cb2109edf7d9b /home/sketchc89/rosbook/devel/lib/python2.7/dist-packages/basics/msg/_Complex.py
+111b4a98c798dd6c9c3cb495c2672134 /home/sketchc89/rosbook/devel/lib/python2.7/dist-packages/basics/msg/__init__.py
+8ee0198af9f2914bd598b337c347d30c /home/sketchc89/rosbook/devel/share/common-lisp/ros/basics/msg/Complex.lisp
+34f80447ecb9dd2bcdb112f11775c2b5 /home/sketchc89/rosbook/devel/share/gennodejs/ros/basics/msg/Complex.js
+2691c77b8bf30a6caf67cdb3ab4987a5 /home/sketchc89/rosbook/devel/share/roseus/ros/basics/manifest.l
+8507c23c313c98ab9ee30a2cf58b789f /home/sketchc89/rosbook/devel/share/roseus/ros/basics/msg/Complex.l
 431a9b76a04736a16f81c3df1f2e952f CMakeFiles/clean_test_results
+3c94a538357ae3c0ead3ff77dbd550d5 basics/CMakeFiles/_basics_generate_messages_check_deps_Complex
+867883bf2458ff8ea519cf24d86622a1 basics/CMakeFiles/basics_generate_messages_cpp
+867883bf2458ff8ea519cf24d86622a1 basics/CMakeFiles/basics_generate_messages_eus
+867883bf2458ff8ea519cf24d86622a1 basics/CMakeFiles/basics_generate_messages_lisp
+867883bf2458ff8ea519cf24d86622a1 basics/CMakeFiles/basics_generate_messages_nodejs
+867883bf2458ff8ea519cf24d86622a1 basics/CMakeFiles/basics_generate_messages_py

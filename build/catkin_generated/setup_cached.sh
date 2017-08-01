@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/sketchc89/rosbook/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/sketchc89/rosbook/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/sketchc89/rosbook/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/sketchc89/rosbook/src:$ROS_PACKAGE_PATH"
+export PYTHONPATH="/home/sketchc89/rosbook/devel/lib/python2.7/dist-packages:$PYTHONPATH"
