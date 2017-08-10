@@ -1,2 +1,0 @@
-basics
--DCATKIN_DEVEL_PREFIX=/home/sketchc89/rosbook/devel -DCMAKE_INSTALL_PREFIX=/home/sketchc89/rosbook/install -G Unix Makefiles
