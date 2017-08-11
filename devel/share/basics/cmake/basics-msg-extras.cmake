@@ -1,2 +1,2 @@
-set(basics_MESSAGE_FILES "/home/sketchc89/rosbook/src/basics/msg/Complex.msg")
+set(basics_MESSAGE_FILES "/home/sketchc89/rosbook/src/basics/msg/Complex.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerAction.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerActionGoal.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerActionResult.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerActionFeedback.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerGoal.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerResult.msg;/home/sketchc89/rosbook/devel/share/basics/msg/TimerFeedback.msg")
 set(basics_SERVICE_FILES "/home/sketchc89/rosbook/src/basics/srv/WordCount.srv")
