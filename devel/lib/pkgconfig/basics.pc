@@ -1,8 +1,0 @@
-prefix=/home/sketchc89/rosbook/devel
-
-Name: basics
-Description: Description of basics
-Version: 0.0.0
-Cflags: -I/home/sketchc89/rosbook/devel/include
-Libs: -L/home/sketchc89/rosbook/devel/lib 
-Requires: message_runtime rospy std_msgs actionlib_msgs
